@@ -5,7 +5,7 @@ summary, key points, and concrete suggestions to improve the document — all wr
 an animated, glassy 3D interface.
 
 
-**Live demo:** _add your deployed Vercel URL here after deploying_
+**Live demo:** sift-theta.vercel.app
 
 ---
 
