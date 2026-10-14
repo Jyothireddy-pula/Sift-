@@ -4,6 +4,7 @@ Upload a PDF or a scanned image and Sift extracts the text, then generates a str
 summary, key points, and concrete suggestions to improve the document — all wrapped in
 an animated, glassy 3D interface.
 
+
 **Live demo:** _add your deployed Vercel URL here after deploying_
 
 ---
